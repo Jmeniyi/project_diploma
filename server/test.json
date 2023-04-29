@@ -1,0 +1,2170 @@
+[
+   {
+      "name": "Амоксициллин",
+      "volume": "500 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "08.12.2022",
+      "recipe": true,
+      "quantity": 50,
+      "price": 30
+   },
+   {
+      "name": "Амоксициллин",
+      "volume": "250 мг\/ 5 мл ",
+      "ReleaseForm": "суспензия",
+      "productionDate": "09.12.2022",
+      "recipe": true,
+      "quantity": 10,
+      "price": 260
+   },
+   {
+      "name": "Арбидол",
+      "volume": "50 мг ",
+      "ReleaseForm": "таблетки",
+      "productionDate": "10.12.2022",
+      "recipe": true,
+      "quantity": 100,
+      "price": 220
+   },
+   {
+      "name": "Аугментин",
+      "volume": "125 мкг\/31.25 мг\/5 мл 100 мл ",
+      "ReleaseForm": "порошок для производства суспензии",
+      "productionDate": "11.12.2022",
+      "recipe": true,
+      "quantity": 150,
+      "price": 180
+   },
+   {
+      "name": "Алгелдрат магния гидроксид",
+      "ReleaseForm": "жевательные таблетки",
+      "productionDate": "12.12.2022",
+      "recipe": true,
+      "quantity": 120,
+      "price": 80
+   },
+   {
+      "name": "Амброксол",
+      "volume": "10 таблеток по 30 мг, сироп 15 мг\/5 мл во флаконах 100 мл",
+      "ReleaseForm": "Таблетки, сироп",
+      "productionDate": "13.12.2022",
+      "recipe": true,
+      "quantity": 30,
+      "price": 230
+   },
+   {
+      "name": "Ацетазоламид",
+      "volume": "Полиэтиленовый пакет 5 или 10 кг",
+      "ReleaseForm": "субстанция",
+      "productionDate": "14.12.2022",
+      "recipe": true,
+      "quantity": 45,
+      "price": 2999
+   },
+   {
+      "name": "Азитромицин",
+      "volume": "250 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "15.12.2022",
+      "recipe": false,
+      "quantity": 20,
+      "price": 25
+   },
+   {
+      "name": "Амантадин",
+      "volume": "100 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "16.12.2022",
+      "recipe": false,
+      "quantity": 200,
+      "price": 17
+   },
+   {
+      "name": "Амитриптилин",
+      "volume": "25 мг",
+      "ReleaseForm": "драже, таблетки, раствор",
+      "productionDate": "17.12.2022",
+      "recipe": false,
+      "quantity": 200,
+      "price": 330
+   },
+   {
+      "name": "Анастрозол",
+      "volume": "1 мг",
+      "ReleaseForm": "Таблетки, субстанция, порошок",
+      "productionDate": "18.12.2022",
+      "recipe": false,
+      "quantity": 200,
+      "price": 150
+   },
+   {
+      "name": "Анаферон детский",
+      "volume": "3 мг",
+      "ReleaseForm": "Таблетки для рассасывания",
+      "productionDate": "19.12.2022",
+      "recipe": false,
+      "quantity": 200,
+      "price": 750
+   },
+   {
+      "name": "Амлодипин",
+      "volume": "5мг и 10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "20.12.2022",
+      "recipe": false,
+      "quantity": 200,
+      "price": 900
+   },
+   {
+      "name": "Атенолол",
+      "volume": "25, 50, 100 мг",
+      "ReleaseForm": "Таблетки, порошок",
+      "productionDate": "21.12.2022",
+      "recipe": false,
+      "quantity": 50,
+      "price": 650
+   },
+   {
+      "name": "Акарбоза",
+      "volume": "50, 100 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "22.12.2022",
+      "recipe": false,
+      "quantity": 10,
+      "price": 210
+   },
+   {
+      "name": "Амиодарон",
+      "volume": "200 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "23.12.2022",
+      "recipe": false,
+      "quantity": 100,
+      "price": 450
+   },
+   {
+      "name": "Аторвастатин",
+      "volume": "10, 20, 40, 80 мг",
+      "ReleaseForm": "Таблетки с плёночной оболочкой",
+      "productionDate": "24.12.2022",
+      "recipe": false,
+      "quantity": 150,
+      "price": 1480
+   },
+   {
+      "name": "адеметионин",
+      "volume": "400 мг (для таблеток)",
+      "ReleaseForm": "Таблетки, высушенный порошок",
+      "productionDate": "25.12.2022",
+      "recipe": false,
+      "quantity": 120,
+      "price": 8490
+   },
+   {
+      "name": "Альфакальцидол",
+      "volume": "100 мг",
+      "ReleaseForm": "Капсулы и таблетки в одной упаковке",
+      "productionDate": "26.12.2022",
+      "recipe": false,
+      "quantity": 30,
+      "price": 20
+   },
+   {
+      "name": "Бензобарбитал",
+      "volume": "0,1 и 0,05 г",
+      "ReleaseForm": "таблетки",
+      "productionDate": "27.12.2022",
+      "recipe": true,
+      "quantity": 45,
+      "price": 250
+   },
+   {
+      "name": "Бифидобактерии бифидум ",
+      "volume": "5 доз",
+      "ReleaseForm": "Капсулы, порошок",
+      "productionDate": "28.12.2022",
+      "recipe": true,
+      "quantity": 20,
+      "price": 10500
+   },
+   {
+      "name": "Бикалутамид",
+      "volume": "50 мг",
+      "ReleaseForm": "Таблетки, порошок",
+      "productionDate": "29.12.2022",
+      "recipe": true,
+      "quantity": 200,
+      "price": 250
+   },
+   {
+      "name": "Бусульфан",
+      "volume": "0, 002 г",
+      "ReleaseForm": "Порошок, таблетки",
+      "productionDate": "30.12.2022",
+      "recipe": true,
+      "quantity": 200,
+      "price": 280
+   },
+   {
+      "name": "Бромгексин",
+      "volume": "4 мг\/5 мл 60 мл",
+      "ReleaseForm": "микстура",
+      "productionDate": "31.12.2022",
+      "recipe": true,
+      "quantity": 50,
+      "price": 3500
+   },
+   {
+      "name": "Бисопролол",
+      "volume": "5 мг",
+      "ReleaseForm": "Таблетки с плёночной оболочкой",
+      "productionDate": "01.01.2023",
+      "recipe": true,
+      "quantity": 10,
+      "price": 2450
+   },
+   {
+      "name": "бисакодил",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "02.01.2023",
+      "recipe": true,
+      "quantity": 100,
+      "price": 120
+   },
+   {
+      "name": "Бромокриптин",
+      "volume": "2,5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "03.01.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 450
+   },
+   {
+      "name": "Бетаксолол",
+      "volume": 0.005,
+      "ReleaseForm": "Капли глазные",
+      "productionDate": "04.01.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 4210
+   },
+   {
+      "name": "Беклометазон",
+      "volume": "50-250 мкг\/доза",
+      "ReleaseForm": "аэрозоль",
+      "productionDate": "05.01.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 72
+   },
+   {
+      "name": "Будесонид",
+      "volume": "50-200 мкг\/доза",
+      "ReleaseForm": "аэрозоль",
+      "productionDate": "06.01.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 579
+   },
+   {
+      "name": "Бенциклан",
+      "volume": "2 мл, 100 мг",
+      "ReleaseForm": "Раствор для инъекций, таблетки",
+      "productionDate": "07.01.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 30
+   },
+   {
+      "name": "Будесонид формотерол",
+      "volume": "200-400 мкг",
+      "ReleaseForm": "Порошок для ингаляций",
+      "productionDate": "08.01.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 260
+   },
+   {
+      "name": "Вальпроевая кислота",
+      "volume": "300 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "09.01.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 220
+   },
+   {
+      "name": "Виферон",
+      "volume": "150 тысяч МЕ № 10",
+      "ReleaseForm": "суппозитории",
+      "productionDate": "10.01.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 180
+   },
+   {
+      "name": "Висмута трикалия дицитрат ",
+      "volume": "120 мг",
+      "ReleaseForm": "Таблетки ",
+      "productionDate": "11.01.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 80
+   },
+   {
+      "name": "Винорелбин",
+      "volume": "10 мг\/мл",
+      "ReleaseForm": "Флаконы с концентратом",
+      "productionDate": "12.01.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 230
+   },
+   {
+      "name": "Варфарин",
+      "volume": "2,5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "13.01.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 2999
+   },
+   {
+      "name": "Верапамил",
+      "volume": "80 мг, 40 мг",
+      "ReleaseForm": "Драже, таблетки",
+      "productionDate": "14.01.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 25
+   },
+   {
+      "name": "Валсартан",
+      "volume": "20 мг, 40 мг, фасовка",
+      "ReleaseForm": "Капсулы, таблетки, порошок",
+      "productionDate": "15.01.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 17
+   },
+   {
+      "name": "Гидрохлоротиазид",
+      "volume": "100 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "16.01.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 330
+   },
+   {
+      "name": "Глибенкламид Метформин",
+      "volume": "2,5 мг + 500 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "17.01.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 150
+   },
+   {
+      "name": "Гиппферон",
+      "volume": "10000 МЕ\/мл ",
+      "ReleaseForm": "Капли назальные",
+      "productionDate": "18.01.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 750
+   },
+   {
+      "name": "Глимепирид",
+      "volume": "1-4 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "19.01.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 900
+   },
+   {
+      "name": "Гесперидин диосмин",
+      "volume": "450 мг + 50 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "20.01.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 650
+   },
+   {
+      "name": "Гидрохлоротиазид каптоприл",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "21.01.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 210
+   },
+   {
+      "name": "Гидрохлоротиазид эналаприл",
+      "volume": "25 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "22.01.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 450
+   },
+   {
+      "name": "Гликлазид",
+      "volume": "фасовка",
+      "ReleaseForm": "порошок",
+      "productionDate": "23.01.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 1480
+   },
+   {
+      "name": "Гликвидон",
+      "volume": "15 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "24.01.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 8490
+   },
+   {
+      "name": "Глибенкламид",
+      "volume": "0,005 г",
+      "ReleaseForm": "таблетки",
+      "productionDate": "25.01.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 20
+   },
+   {
+      "name": "Глипизид",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "26.01.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 250
+   },
+   {
+      "name": "Гидрокарбамид",
+      "productionDate": "27.01.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 10500
+   },
+   {
+      "name": "Гидроксихлорохин",
+      "volume": "200 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "28.01.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 250
+   },
+   {
+      "name": "Гозерелин",
+      "volume": "10.8 мг",
+      "ReleaseForm": "Капсулы для подкожного введения",
+      "productionDate": "29.01.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 280
+   },
+   {
+      "name": "Гепарин натрия",
+      "volume": "5000 МЕ\/мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "30.01.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 3500
+   },
+   {
+      "name": "Гранисетрон",
+      "volume": "1 мг\/мл",
+      "ReleaseForm": "Сухой концентрат",
+      "productionDate": "31.01.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 2450
+   },
+   {
+      "name": "Гендевит",
+      "ReleaseForm": "драже",
+      "productionDate": "01.02.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 120
+   },
+   {
+      "name": "гидрокортизон",
+      "volume": 0.005,
+      "ReleaseForm": "мазь",
+      "productionDate": "02.02.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 450
+   },
+   {
+      "name": "Глицирризиновая кислота фосфолипиды",
+      "volume": "300 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "04.02.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 4210
+   },
+   {
+      "name": "Гемицеллюлаза желчи компоненты панкреатин",
+      "volume": "4,5 + 6 + 0,3 тыс",
+      "ReleaseForm": "драже",
+      "productionDate": "05.02.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 72
+   },
+   {
+      "name": "гонадотропин хорионический",
+      "volume": "50&nbsp;000&nbsp;000 – 1&nbsp;000&nbsp;000&nbsp;000 МЕ",
+      "ReleaseForm": "порошок",
+      "productionDate": "06.02.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 579
+   },
+   {
+      "name": "Десмопрессин",
+      "volume": "0,1 мг\/мл, 10 мкг\/доза",
+      "ReleaseForm": "Капли, спрей назальные",
+      "productionDate": "07.02.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 30
+   },
+   {
+      "name": "Дигоксин",
+      "volume": "0,1 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "08.02.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 260
+   },
+   {
+      "name": "Дротаверин",
+      "volume": "20 мг\/мл, 40 мг",
+      "ReleaseForm": "Раствор для инъекций, таблетки",
+      "productionDate": "09.02.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 220
+   },
+   {
+      "name": "Доксазозин",
+      "volume": "2 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "10.02.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 180
+   },
+   {
+      "name": "Диосмин",
+      "volume": "500 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "11.02.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 80
+   },
+   {
+      "name": "Дилтиазем&nbsp;",
+      "volume": "30 – 120 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "12.02.2023",
+      "recipe": true,
+      "quantity": 150,
+      "price": 230
+   },
+   {
+      "name": "Дипиридамол",
+      "volume": "50 мг\/ 5мл",
+      "ReleaseForm": "суспензия",
+      "productionDate": "13.02.2023",
+      "recipe": true,
+      "quantity": 120,
+      "price": 2999
+   },
+   {
+      "name": "Далтепарин натрия",
+      "volume": "0,2 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "14.02.2023",
+      "recipe": true,
+      "quantity": 30,
+      "price": 25
+   },
+   {
+      "name": "Дигидротахистерол",
+      "volume": 0.001,
+      "ReleaseForm": "Капли ",
+      "productionDate": "15.02.2023",
+      "recipe": true,
+      "quantity": 45,
+      "price": 17
+   },
+   {
+      "name": "Джозамицин",
+      "volume": "1000 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "16.02.2023",
+      "recipe": true,
+      "quantity": 20,
+      "price": 330
+   },
+   {
+      "name": "Дидрогестерон",
+      "productionDate": "17.02.2023",
+      "recipe": true,
+      "quantity": 200,
+      "price": 150
+   },
+   {
+      "name": "Диэтиламинопропионил-этоксикарбониламинофенотиазин",
+      "volume": "0,5 кг",
+      "ReleaseForm": "порошок",
+      "productionDate": "18.02.2023",
+      "recipe": true,
+      "quantity": 200,
+      "price": 750
+   },
+   {
+      "name": "Железа сульфат [III] гидроксид полимальтозат",
+      "ReleaseForm": "Таблетки, сироп",
+      "productionDate": "19.02.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 900
+   },
+   {
+      "name": "железа [III] гидроксид сахарозный комплекс",
+      "volume": "20 мг\/мл",
+      "ReleaseForm": "Раствор для внутреннего введения",
+      "productionDate": "20.02.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 650
+   },
+   {
+      "name": "железа [III] гидроксид полиизомальтозат",
+      "volume": "100 мг\/2 мл, 50 мг\/ 5 мл, 100 мг",
+      "ReleaseForm": "Раствор, сироп, таблетки",
+      "productionDate": "21.02.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 210
+   },
+   {
+      "name": "Желчь поджелудочной железы порошок слизистой тонкой кишки порошок",
+      "ReleaseForm": "капсулы",
+      "productionDate": "22.02.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 450
+   },
+   {
+      "name": "железа сульфат+[аскорбиновая кислота]",
+      "volume": "30 мл",
+      "ReleaseForm": "капли",
+      "productionDate": "23.02.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 1480
+   },
+   {
+      "name": "Зиртек",
+      "volume": "10 мл",
+      "ReleaseForm": "капли",
+      "productionDate": "24.02.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 8490
+   },
+   {
+      "name": "Ибупрофен",
+      "volume": "60 мг, 100 мг\/ 5 мл",
+      "ReleaseForm": "Суппозитории, суспензия",
+      "productionDate": "25.02.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 20
+   },
+   {
+      "name": "Изосорбида мононитрат",
+      "volume": "0, 4 мг\/ доза",
+      "ReleaseForm": "аэрозоль",
+      "productionDate": "26.02.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 250
+   },
+   {
+      "name": "Изосорбид динитрат",
+      "volume": "125 мкг\/ доза",
+      "ReleaseForm": "спрей",
+      "productionDate": "27.02.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 10500
+   },
+   {
+      "name": "ИРС-19",
+      "volume": "20 мл",
+      "ReleaseForm": "аэрозоль",
+      "productionDate": "28.02.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 250
+   },
+   {
+      "name": "Инсулин растворимый (человеческий генно-инженерный), Росинсулин Р",
+      "volume": "100 МЕ\/ мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "01.03.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 280
+   },
+   {
+      "name": "Инсулин изофан (человеческий генно-инженерный), Росинсулин С",
+      "volume": "100 МЕ\/ мл",
+      "ReleaseForm": "Суспензия для подкожного введения",
+      "productionDate": "02.03.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 3500
+   },
+   {
+      "name": "Инсулин аспарт, НовоРапид",
+      "volume": "100 ЕД\/ мл",
+      "ReleaseForm": "Инъекционный раствор",
+      "productionDate": "03.03.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 2450
+   },
+   {
+      "name": "Инсулин аспарт двухфазный, НовоМикс 30",
+      "volume": "100 ЕД\/ мл",
+      "ReleaseForm": "Суспензия для подкожного введения",
+      "productionDate": "04.03.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 120
+   },
+   {
+      "name": "Инсулин глулизин, Апидра СолоСтар",
+      "volume": "100 ЕД\/ мл",
+      "ReleaseForm": "Раствор для подкожного введения",
+      "productionDate": "05.03.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 450
+   },
+   {
+      "name": "Инсулин лизпро, Хумалог",
+      "volume": "100 ЕД\/ мл",
+      "ReleaseForm": "Суспензия для подкожного введения",
+      "productionDate": "06.03.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 4210
+   },
+   {
+      "name": "Инсулин лизпро двухфазный, Хумалог Микс 25",
+      "volume": "100 ЕД\/ мл",
+      "ReleaseForm": "Суспензия для подкожного введения",
+      "productionDate": "07.03.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 72
+   },
+   {
+      "name": "Инсулин гларгин, Лантус СолоСтар",
+      "volume": "100 ЕД\/ мл",
+      "ReleaseForm": "Раствор для подкожного введения",
+      "productionDate": "08.03.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 30
+   },
+   {
+      "name": "Инсулин детемир, Левемир",
+      "volume": "100 ЕД\/ мл",
+      "ReleaseForm": "Раствор для подкожного введения",
+      "productionDate": "09.03.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 260
+   },
+   {
+      "name": "Иглы одноразовые к инсулиновому инжектору",
+      "volume": 100,
+      "ReleaseForm": "упаковка",
+      "productionDate": "10.03.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 220
+   },
+   {
+      "name": "Ипратропия бромид",
+      "volume": "0,2 мг + 1 мг\/ мл",
+      "ReleaseForm": "Раствор для ингаляции",
+      "productionDate": "11.03.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 180
+   },
+   {
+      "name": "Ипратропия бромид + фенотерол",
+      "volume": "0,25 мг",
+      "ReleaseForm": "Раствор для ингаляции",
+      "productionDate": "12.03.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 80
+   },
+   {
+      "name": "Индапамид",
+      "volume": "1,5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "13.03.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 230
+   },
+   {
+      "name": "ирбесартан",
+      "volume": "фасовка",
+      "ReleaseForm": "порошок",
+      "productionDate": "14.03.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 2999
+   },
+   {
+      "name": "Кеторолак",
+      "volume": "30 мг\/ мл",
+      "ReleaseForm": "Раствор для внутримышечного ведения",
+      "productionDate": "15.03.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 25
+   },
+   {
+      "name": "Кетопрофен",
+      "volume": 0.025,
+      "ReleaseForm": "гель",
+      "productionDate": "16.03.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 17
+   },
+   {
+      "name": "Каптоприл",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "17.03.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 330
+   },
+   {
+      "name": "Капецитабин",
+      "volume": "500 г",
+      "ReleaseForm": "субстанция",
+      "productionDate": "18.03.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 150
+   },
+   {
+      "name": "Клоназепам",
+      "volume": "0,5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "19.03.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 750
+   },
+   {
+      "name": "Карбамазепин",
+      "volume": "200 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "20.03.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 900
+   },
+   {
+      "name": "Клонидин",
+      "volume": 0.00125,
+      "ReleaseForm": "Глазные капли",
+      "productionDate": "21.03.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 650
+   },
+   {
+      "name": "Коделак Фито",
+      "volume": "100 мл",
+      "ReleaseForm": "сироп",
+      "productionDate": "22.03.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 210
+   },
+   {
+      "name": "Колекальциферол",
+      "volume": "30 мл ",
+      "ReleaseForm": "Капли, таблетки для приготовления шипучки",
+      "productionDate": "23.03.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 450
+   },
+   {
+      "name": "калия йодид",
+      "volume": "200 мкг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "24.03.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 1480
+   },
+   {
+      "name": "Клотримазол",
+      "volume": "15 г",
+      "ReleaseForm": "крем",
+      "productionDate": "25.03.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 8490
+   },
+   {
+      "name": "карведилол",
+      "volume": "6,25 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "26.03.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 30
+   },
+   {
+      "name": "калия и магния аспарагинат",
+      "volume": "175 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "27.03.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 260
+   },
+   {
+      "name": "кальцитриол",
+      "volume": "0,25 мкг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "28.03.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 220
+   },
+   {
+      "name": "Клопидогрел",
+      "volume": "75 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "29.03.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 180
+   },
+   {
+      "name": "кандесартан",
+      "volume": "16 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "30.03.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 80
+   },
+   {
+      "name": "Калоприемник",
+      "productionDate": "31.03.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 230
+   },
+   {
+      "name": "каберголин",
+      "volume": "0,5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "01.04.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 2999
+   },
+   {
+      "name": "Катетер самоудерживающийся крупноголовчатый тип Пеццера",
+      "productionDate": "02.04.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 25
+   },
+   {
+      "name": "Креон",
+      "volume": "10000 ЕД 150 № 20",
+      "ReleaseForm": "капсулы",
+      "productionDate": "03.04.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 17
+   },
+   {
+      "name": "Левотироксин натрия",
+      "volume": "200 мкг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "04.04.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 330
+   },
+   {
+      "name": "Латанопрост",
+      "volume": "2,5 мл",
+      "ReleaseForm": "Глазные капли",
+      "productionDate": "05.04.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 150
+   },
+   {
+      "name": "Летрозол",
+      "volume": "2,5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "06.04.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 750
+   },
+   {
+      "name": "Лозартан",
+      "volume": "50 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "07.04.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 900
+   },
+   {
+      "name": "Ламотриджин",
+      "volume": "25 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "08.04.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 650
+   },
+   {
+      "name": "Леветирацетам",
+      "volume": "250 мг ",
+      "ReleaseForm": "таблетки",
+      "productionDate": "09.04.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 210
+   },
+   {
+      "name": "Лазолван",
+      "volume": "15 мг\/5 мл 100 мл № 1",
+      "ReleaseForm": "сироп",
+      "productionDate": "10.04.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 450
+   },
+   {
+      "name": "Леводопа + бенсеразид",
+      "volume": "100 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "11.04.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 1480
+   },
+   {
+      "name": "Леводопа + карбидопа",
+      "volume": "100 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "12.04.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 8490
+   },
+   {
+      "name": "Лактулоза",
+      "volume": "15 – 500 мл",
+      "ReleaseForm": "сироп",
+      "productionDate": "13.04.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 30
+   },
+   {
+      "name": "Лоперамид",
+      "volume": "2 мг",
+      "ReleaseForm": "Жевательные таблетки",
+      "productionDate": "14.04.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 260
+   },
+   {
+      "name": "Ломустин",
+      "volume": "40 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "15.04.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 220
+   },
+   {
+      "name": "лизиноприл",
+      "volume": "2,5 – 10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "16.04.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 180
+   },
+   {
+      "name": "ловастатин",
+      "volume": "20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "17.04.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 80
+   },
+   {
+      "name": "лаппаконитина гидробромид",
+      "volume": "25 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "18.04.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 230
+   },
+   {
+      "name": "левоментола раствор в ментил изовалерате",
+      "ReleaseForm": "капли",
+      "productionDate": "19.04.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 2999
+   },
+   {
+      "name": "мебеверин",
+      "volume": "200 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "20.04.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 25
+   },
+   {
+      "name": "метилпреднизолона ацепонат",
+      "volume": "15 г",
+      "ReleaseForm": "мазь",
+      "productionDate": "21.04.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 17
+   },
+   {
+      "name": "Морфин",
+      "volume": "0,01 г",
+      "ReleaseForm": "раствор",
+      "productionDate": "22.04.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 330
+   },
+   {
+      "name": "Месалазин",
+      "volume": "500 мг",
+      "ReleaseForm": "свечи",
+      "productionDate": "23.04.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 150
+   },
+   {
+      "name": "Медроксипрогестерон",
+      "volume": "150 и 500 мг",
+      "ReleaseForm": "суспензия",
+      "productionDate": "24.04.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 750
+   },
+   {
+      "name": "Мелфалан",
+      "volume": "2 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "25.04.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 900
+   },
+   {
+      "name": "Меркаптопурин",
+      "volume": "0,05 г",
+      "ReleaseForm": "таблетки",
+      "productionDate": "26.04.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 650
+   },
+   {
+      "name": "Метотрексат",
+      "volume": "5, 20, 50, 1000 мг",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "27.04.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 210
+   },
+   {
+      "name": "Метопролол",
+      "volume": "50 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "28.04.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 450
+   },
+   {
+      "name": "Метоклопрамид",
+      "volume": "10 мг\/ 2 мл, 10 мг",
+      "ReleaseForm": "Раствор и таблетки",
+      "productionDate": "29.04.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 1480
+   },
+   {
+      "name": "Метилпреднизолон",
+      "volume": "15 г",
+      "ReleaseForm": "мазь",
+      "productionDate": "30.04.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 8490
+   },
+   {
+      "name": "Метформин",
+      "volume": "500 – 1000 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "01.05.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 20
+   },
+   {
+      "name": "Моксонидин",
+      "volume": "0,2 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "02.05.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 250
+   },
+   {
+      "name": "Молсидомин",
+      "volume": "0,002&nbsp;г",
+      "ReleaseForm": "Таблетки ",
+      "productionDate": "03.05.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 10500
+   },
+   {
+      "name": "Моэксиприл",
+      "volume": "7,5 или 15 мг",
+      "ReleaseForm": "Таблетки",
+      "productionDate": "04.05.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 30
+   },
+   {
+      "name": "Мульти-Табс Малыш",
+      "volume": "№ 60",
+      "ReleaseForm": "жевательные таблетки",
+      "productionDate": "05.05.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 260
+   },
+   {
+      "name": "Мульти-Табс Беби",
+      "volume": "30 мл",
+      "ReleaseForm": "назальные капли",
+      "productionDate": "06.05.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 220
+   },
+   {
+      "name": "Називин",
+      "volume": "0.01% 5 мл",
+      "ReleaseForm": "капли",
+      "productionDate": "07.05.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 180
+   },
+   {
+      "name": "Називин",
+      "volume": "0.025% 10 мл",
+      "ReleaseForm": "капли",
+      "productionDate": "08.05.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 80
+   },
+   {
+      "name": "Нитроглицерин",
+      "volume": 0.01,
+      "ReleaseForm": "спрей",
+      "productionDate": "09.05.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 230
+   },
+   {
+      "name": "Надропарин кальция",
+      "volume": "2850 МЕ\/ 0,3 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "10.05.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 2999
+   },
+   {
+      "name": "Нифедипин",
+      "volume": "20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "11.05.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 25
+   },
+   {
+      "name": "Небиволол",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "12.05.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 17
+   },
+   {
+      "name": "Нурофен",
+      "volume": "100 мг\/5 мл 100 мл",
+      "ReleaseForm": "суспензия",
+      "productionDate": "13.05.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 330
+   },
+   {
+      "name": "Норэтистерон",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "14.05.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 150
+   },
+   {
+      "name": "Ондансетрон",
+      "volume": "Ампулы по 2 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "15.05.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 750
+   },
+   {
+      "name": "Омепразол",
+      "volume": "20 мг",
+      "ReleaseForm": "Детская суспензия",
+      "productionDate": "16.05.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 900
+   },
+   {
+      "name": "омега-3 триглицериды",
+      "ReleaseForm": "Мягкие капсулы",
+      "productionDate": "17.05.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 650
+   },
+   {
+      "name": "Орвирем",
+      "volume": "10 мг\/мл 100 мл",
+      "ReleaseForm": "сироп",
+      "productionDate": "18.05.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 210
+   },
+   {
+      "name": "оксибутинин",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "19.05.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 450
+   },
+   {
+      "name": "Пиридостигмин",
+      "volume": "60 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "20.05.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 1480
+   },
+   {
+      "name": "Пеницилламин",
+      "volume": "0,25 г",
+      "ReleaseForm": "таблетки",
+      "productionDate": "21.05.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 8490
+   },
+   {
+      "name": "Пирибедил",
+      "volume": "50 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "22.05.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 20
+   },
+   {
+      "name": "Панкреатин",
+      "volume": "10&nbsp;000 ЕД",
+      "ReleaseForm": "таблетки",
+      "productionDate": "23.05.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 250
+   },
+   {
+      "name": "Пентоксифиллин",
+      "volume": "100 мг и 400 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "24.05.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 30
+   },
+   {
+      "name": "Прамипексол",
+      "volume": "0,7 мг и 0,18 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "25.05.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 260
+   },
+   {
+      "name": "Пирацетам",
+      "volume": "125 мл 20 %",
+      "ReleaseForm": "Оральный раствор",
+      "productionDate": "26.05.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 220
+   },
+   {
+      "name": "Парацетамол",
+      "volume": "250 мг, 100 мл",
+      "ReleaseForm": "Суппозитории, суспензия",
+      "productionDate": "27.05.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 180
+   },
+   {
+      "name": "Пилокарпин",
+      "volume": "5 мл",
+      "ReleaseForm": "Раствор",
+      "productionDate": "28.05.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 80
+   },
+   {
+      "name": "Преднизолон",
+      "volume": "15 г",
+      "ReleaseForm": "Мазь",
+      "productionDate": "29.05.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 230
+   },
+   {
+      "name": "Прогестерон",
+      "volume": "80 г 1 %",
+      "ReleaseForm": "гель",
+      "productionDate": "30.05.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 2999
+   },
+   {
+      "name": "Периндоприл",
+      "volume": "4 -10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "31.05.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 25
+   },
+   {
+      "name": "Пропранолол",
+      "volume": "10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "01.06.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 17
+   },
+   {
+      "name": "Парацетамол",
+      "volume": "25 мг\/мл 100 мл № 1",
+      "ReleaseForm": "суспензия",
+      "productionDate": "02.06.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 330
+   },
+   {
+      "name": "Ранитидин",
+      "volume": "150 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "03.06.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 150
+   },
+   {
+      "name": "рамиприл",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "04.06.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 750
+   },
+   {
+      "name": "росиглитазон",
+      "volume": "4 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "05.06.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 900
+   },
+   {
+      "name": "репаглинид",
+      "volume": "1 и 2 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "06.06.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 650
+   },
+   {
+      "name": "Рабепразол рилменидин",
+      "volume": "10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "07.06.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 210
+   },
+   {
+      "name": "розувастатин",
+      "volume": "10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "08.06.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 450
+   },
+   {
+      "name": "Расходные материалы к инсулиновым дозаторам только для детей",
+      "productionDate": "09.06.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 1480
+   },
+   {
+      "name": "Смекта",
+      "volume": "3 г № 30",
+      "ReleaseForm": "порошок",
+      "productionDate": "10.06.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 8490
+   },
+   {
+      "name": "Сумамед",
+      "volume": "100 мг\/5 мл 17 г",
+      "ReleaseForm": "порошок",
+      "productionDate": "11.06.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 20
+   },
+   {
+      "name": "Спиронолактон",
+      "volume": "50 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "12.06.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 250
+   },
+   {
+      "name": "Супрастин",
+      "volume": "25 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "13.06.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 30
+   },
+   {
+      "name": "Сульфасалазин",
+      "volume": "500 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "14.06.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 260
+   },
+   {
+      "name": "Сальбутамол",
+      "volume": "100 мкг\/доза",
+      "ReleaseForm": "аэрозоль",
+      "productionDate": "15.06.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 220
+   },
+   {
+      "name": "Сальметерол + флутиказон",
+      "volume": "25 мкг\/50 мкг \/ доза",
+      "ReleaseForm": "Аэрозоль для ингаляций",
+      "productionDate": "16.06.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 180
+   },
+   {
+      "name": "Симвастатин",
+      "volume": "20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "17.06.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 80
+   },
+   {
+      "name": "спираприл",
+      "volume": "6 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "18.06.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 230
+   },
+   {
+      "name": "соталол",
+      "volume": "80 и 160 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "19.06.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 2999
+   },
+   {
+      "name": "Тримеперидин",
+      "volume": "&nbsp;0,025 г",
+      "ReleaseForm": "таблетки",
+      "productionDate": "20.06.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 25
+   },
+   {
+      "name": "Трилептал",
+      "volume": "300 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "21.06.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 17
+   },
+   {
+      "name": "Тригексифенидил",
+      "volume": "0,005 г&nbsp;",
+      "ReleaseForm": "таблетки",
+      "productionDate": "22.06.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 330
+   },
+   {
+      "name": "Тамоксифен",
+      "volume": "20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "23.06.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 150
+   },
+   {
+      "name": "тамсулозин",
+      "volume": "0,4 мг",
+      "ReleaseForm": "Капсулы и таблетки",
+      "productionDate": "24.06.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 750
+   },
+   {
+      "name": "Трипторелин",
+      "volume": "95.6 мкг\/1 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "25.06.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 900
+   },
+   {
+      "name": "Тиамазол",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "26.06.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 650
+   },
+   {
+      "name": "Тимолол",
+      "volume": "5 мл по 0,25 или 0,5 %",
+      "ReleaseForm": "Глазные капли",
+      "productionDate": "27.06.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 210
+   },
+   {
+      "name": "Троксерутин",
+      "volume": "40 г 2%, 300 мг",
+      "ReleaseForm": "Гель, капсулы",
+      "productionDate": "28.06.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 450
+   },
+   {
+      "name": "толтеродин",
+      "volume": "2 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "29.06.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 1480
+   },
+   {
+      "name": "триметазидин",
+      "volume": "20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "30.06.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 30
+   },
+   {
+      "name": "Тиотропия бромид",
+      "volume": "18 мкг",
+      "ReleaseForm": "Капсулы для ингаляций",
+      "productionDate": "01.07.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 260
+   },
+   {
+      "name": "трописетрон",
+      "volume": "5 мл",
+      "ReleaseForm": "раствор",
+      "productionDate": "02.07.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 220
+   },
+   {
+      "name": "тербинафин",
+      "volume": "15 мл, 15 г",
+      "ReleaseForm": "Спрей, гель",
+      "productionDate": "03.07.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 180
+   },
+   {
+      "name": "теразозин",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "04.07.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 80
+   },
+   {
+      "name": "тиоктовая кислота",
+      "volume": "12 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "05.07.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 230
+   },
+   {
+      "name": "Тест-полоски для определения содержания глюкозы в крови к глюкометрам",
+      "productionDate": "06.07.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 30
+   },
+   {
+      "name": "Урсодезоксихолевая кислота",
+      "volume": "250 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "07.07.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 260
+   },
+   {
+      "name": "фамотидин",
+      "volume": "20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "08.07.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 220
+   },
+   {
+      "name": "Флудрокортизон",
+      "volume": "0,1 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "09.07.2023",
+      "recipe": false,
+      "quantity": 50,
+      "price": 180
+   },
+   {
+      "name": "Фенобарбитал",
+      "volume": "0,05 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "10.07.2023",
+      "recipe": false,
+      "quantity": 10,
+      "price": 80
+   },
+   {
+      "name": "Фуросемид",
+      "volume": "40 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "11.07.2023",
+      "recipe": false,
+      "quantity": 100,
+      "price": 230
+   },
+   {
+      "name": "Формотерол",
+      "volume": "12 мкг",
+      "ReleaseForm": "Порошок для ингаляций",
+      "productionDate": "12.07.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 2999
+   },
+   {
+      "name": "Фенотерол",
+      "volume": "100 мкг\/доза",
+      "ReleaseForm": "аэрозоль",
+      "productionDate": "13.07.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 25
+   },
+   {
+      "name": "Фелодипин",
+      "volume": "2,5 – 10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "14.07.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 17
+   },
+   {
+      "name": "Флуоцинолона ацетонид",
+      "volume": "15 г 0,25 %",
+      "ReleaseForm": "мазь",
+      "productionDate": "15.07.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 330
+   },
+   {
+      "name": "Фозиноприл",
+      "volume": "20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "16.07.2023",
+      "recipe": false,
+      "quantity": 20,
+      "price": 150
+   },
+   {
+      "name": "Финастерид",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "17.07.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 750
+   },
+   {
+      "name": "Фолиевая кислота",
+      "ReleaseForm": "Капсулы и таблетки",
+      "productionDate": "18.07.2023",
+      "recipe": false,
+      "quantity": 200,
+      "price": 900
+   },
+   {
+      "name": "Хлоропирамин",
+      "volume": "5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "19.07.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 650
+   },
+   {
+      "name": "Хлорамбуцил",
+      "volume": "2 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "20.07.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 210
+   },
+   {
+      "name": "Хлоргексидин",
+      "volume": "25 г",
+      "ReleaseForm": "крем",
+      "productionDate": "21.07.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 450
+   },
+   {
+      "name": "Хинаприл",
+      "volume": "10 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "22.07.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 1480
+   },
+   {
+      "name": "Цефтриаксон",
+      "volume": "1.0",
+      "ReleaseForm": "порошок",
+      "productionDate": "23.07.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 8490
+   },
+   {
+      "name": "Цилазаприл",
+      "volume": "2,5 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "24.07.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 20
+   },
+   {
+      "name": "Циклофосфамид",
+      "volume": "50 мг",
+      "ReleaseForm": "драже",
+      "productionDate": "25.07.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 250
+   },
+   {
+      "name": "Ципромед",
+      "volume": "10 мл № 1",
+      "ReleaseForm": "ушные капли",
+      "productionDate": "26.07.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 30
+   },
+   {
+      "name": "ципротерон",
+      "volume": "0,05 г",
+      "ReleaseForm": "таблетки",
+      "productionDate": "27.07.2023",
+      "recipe": false,
+      "quantity": 150,
+      "price": 260
+   },
+   {
+      "name": "Эргокальцифреол",
+      "volume": "0.625 мг\/мл 15 мл № 1",
+      "ReleaseForm": "Капли для перорального приёма",
+      "productionDate": "28.07.2023",
+      "recipe": false,
+      "quantity": 120,
+      "price": 220
+   },
+   {
+      "name": "Этосуксимид",
+      "volume": "250 мг",
+      "ReleaseForm": "капсулы",
+      "productionDate": "29.07.2023",
+      "recipe": false,
+      "quantity": 30,
+      "price": 180
+   },
+   {
+      "name": "Эксеместан г",
+      "volume": "0,1 – 1 килограмм",
+      "ReleaseForm": "порошок",
+      "productionDate": "30.07.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 80
+   },
+   {
+      "name": "Этопозид",
+      "volume": "5 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "31.07.2023",
+      "recipe": true,
+      "quantity": 150,
+      "price": 230
+   },
+   {
+      "name": "эноксапарин натрия",
+      "volume": "0,2 или 0,4 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "01.08.2023",
+      "recipe": true,
+      "quantity": 120,
+      "price": 2999
+   },
+   {
+      "name": "Этамзилат натрия",
+      "volume": "250 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "02.08.2023",
+      "recipe": true,
+      "quantity": 30,
+      "price": 25
+   },
+   {
+      "name": "Эналаприл",
+      "volume": "От 5 до 20 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "03.08.2023",
+      "recipe": true,
+      "quantity": 45,
+      "price": 17
+   },
+   {
+      "name": "эпросартан",
+      "volume": "600 мг",
+      "ReleaseForm": "таблетки",
+      "productionDate": "04.08.2023",
+      "recipe": true,
+      "quantity": 150,
+      "price": 330
+   },
+   {
+      "name": "Этанол",
+      "volume": "От 50 до 100 мл",
+      "ReleaseForm": "Раствор для приготовления лекарственных форм",
+      "productionDate": "05.08.2023",
+      "recipe": true,
+      "quantity": 120,
+      "price": 150
+   },
+   {
+      "name": "Эристол",
+      "volume": "2 мг\/мл",
+      "ReleaseForm": "сироп",
+      "productionDate": "06.08.2023",
+      "recipe": true,
+      "quantity": 30,
+      "price": 750
+   },
+   {
+      "name": "эпоэтин альфа",
+      "volume": "1 мл",
+      "ReleaseForm": "Раствор для инъекций",
+      "productionDate": "07.08.2023",
+      "recipe": false,
+      "quantity": 45,
+      "price": 900
+   },
+   {
+      "name": "эпоэтин бета",
+      "volume": "От 1000 до 20&nbsp;000 МЕ",
+      "ReleaseForm": "Порошок для инъекций",
+      "productionDate": "08.08.2023",
+      "recipe": false,
+      "quantity": 5,
+      "price": 650
+   }
+]
