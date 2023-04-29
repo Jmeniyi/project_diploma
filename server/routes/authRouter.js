@@ -11,6 +11,6 @@ router.post('/registration',[
     check('password', "Пароль пользователя должен содержать более 4 символов").isLength({min:4})
 ], controller.registration)
 router.post('/login', controller.login)
-router.get('/users', controller.getUsers)
+router.get('/users', roleMiddleware(['ADMIN']), controller.getUsers)
 
 module.exports = router
