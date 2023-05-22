@@ -4,13 +4,14 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const { validationResult } = require('express-validator')
 const {secret} = require("../config")
+const products  = require("../allProducts/test.json")
 
 const generateAccessToken = (id, roles) => {
     const payload = {
         id,
         roles
     }
-    return jwt.sign(payload, secret, {expiresIn: "12h"} )
+    return jwt.sign(payload, secret, {expiresIn: "1h"} )
 }
 
 class authController {
@@ -48,7 +49,7 @@ class authController {
                 res.status(400).json({message: 'Введён неверный пароль'})
             }
             const token = generateAccessToken(user._id, user.roles)
-            return res.json({token})
+            return res.json({token, user})
         } catch (e) {
             console.log(e)
             res.status(400).json({message: 'Login error'})
@@ -59,6 +60,13 @@ class authController {
         try {
             const users = await User.find()
             res.json(users)
+        } catch (e) {
+            console.log(e)
+        }
+    }
+    async getItems(req, res) {
+        try {
+            res.json(products)
         } catch (e) {
             console.log(e)
         }
